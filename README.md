@@ -1,4 +1,7 @@
-### Hi there 👋
+### Shalom internet 👋
+My name is Avi and I am a software developer. Currently working on various full stack projects, you can find more about me on my [personal website](https://inspiringsource.github.io/ "Link 💬")
+
+
 
 <!--
 **inspiringsource/inspiringsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
