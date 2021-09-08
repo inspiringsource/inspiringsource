@@ -1,5 +1,5 @@
 ### Shalom internet 👋
-My name is Avi and I am a software developer. Currently working on various full stack projects, [more about me](https://inspiringsource.github.io/ "Link 💬").
+My name is Avi and I am a software developer. Currently working on various full stack projects, [curious to find out more?](https://inspiringsource.github.io/ "Link 💬").
 
 
 
