@@ -1,5 +1,5 @@
 ### Shalom internet 👋
-My name is Avi and I am a web developer. Currently preparing for studies @[ITC](https://www.itc.tech/ "ISRAEL TECH CHALLENGE") and working on various full stack projects, [curious to find out more](https://inspiringsource.github.io/ "Link 💬")?
+My name is Avi and I am a web developer. Preparing for studies @[ITC](https://www.itc.tech/ "ISRAEL TECH CHALLENGE") and working on various full stack projects, [curious to find out more](https://inspiringsource.github.io/ "Link 💬")?
 
 
 
