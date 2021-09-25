@@ -1,7 +1,7 @@
 ### Shalom internet 👋
 My name is Avi and I am a web developer. Preparing for studies @[ITC](https://www.itc.tech/ "ISRAEL TECH CHALLENGE") and working on various full stack projects, [curious to find out more](https://inspiringsource.github.io/ "Link 💬")?
 
-The repositories here are what got me started learning as a full stack web developer.
+The repositories here are what got me started learning full stack web Development.
 
 <!--
 **inspiringsource/inspiringsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
