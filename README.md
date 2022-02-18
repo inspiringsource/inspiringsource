@@ -1,5 +1,5 @@
 ### Shalom internet 👋
-My name is Avi and I am a web developer. Learning about functional programming and learning about React. [Curious to find out more](https://inspiringsource.github.io/ "Link 💬")?
+My name is Avi and I am a web developer. Learning about functional programming and learning about React. 
 
 
 
