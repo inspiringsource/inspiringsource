@@ -1,5 +1,5 @@
 ### Shalom internet 👋
-My name is Avi and I am a web developer. Enthusiastic about React and conntinuous learning.
+My name is Avi and I am a web developer. Enthusiastic about React and continuous integration :repeat:
 
 
 
