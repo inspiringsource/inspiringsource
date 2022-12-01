@@ -1,7 +1,7 @@
 ### Shalom internet 👋
-My name is Avi and I am a web developer. ReactJS enthusiastic and continuous delivery :repeat:
+My name is Avi and I am a web developer. ReactJS enthusiastic! 
 
-
+- 🔭 Continuous delivery :repeat:
 
 <!--
 **inspiringsource/inspiringsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
