@@ -1,5 +1,4 @@
-### Shalom internet 👋
-My name is Avi and I am a web developer.
+✨ My name is Avi and I am a web developer. ✨ 
 
 
 <!--
