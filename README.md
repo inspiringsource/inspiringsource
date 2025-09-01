@@ -1,5 +1,4 @@
-✨ My name is Avi and I am a web developer.
-
+I’m Avi, web dev & CS student sharing my code and repos here...
 
 <!--
 **inspiringsource/inspiringsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
